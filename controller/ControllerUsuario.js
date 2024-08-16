@@ -1,4 +1,4 @@
-import usuarios from "../model/ModelUsuario.js";
+import usuarios from "../model/ModeloUsuario.js";
 
 
 export function iniciarSesion() {
