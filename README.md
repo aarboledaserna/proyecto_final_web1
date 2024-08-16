@@ -13,3 +13,5 @@
 3. Si desea registrarse tambien lo puede hacer por la opción de registro.
 
 4. Cuando ingrese exitosamente podra ver el menú transversal con opciones de mostrar los usuarios y de cerrar sesion para regresar al index.html
+
+5. Tambien se puede regresar al panel de control y ocultar el listra y registro.
