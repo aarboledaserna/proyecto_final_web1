@@ -15,5 +15,3 @@
 4. Cuando ingrese exitosamente podra ver el menú transversal con opciones de mostrar los usuarios y de cerrar sesion para regresar al index.html
 
 5. Tambien se puede regresar al panel de control y ocultar el listra y registro.
-
-6. Se adjunta MockUp del proyecto en pdf y power point en github.
