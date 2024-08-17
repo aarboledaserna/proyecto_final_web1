@@ -1,0 +1,11 @@
+.header-container{
+    width: 280px; /* Ancho del menú lateral */
+    background-color: #768888; /* Color de fondo */
+    color: rgb(13, 13, 13); /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    position: fixed; /* Fijo en la pantalla */
+    top: 0; /* Parte superior */
+    height: 100vh; /* Altura */
+  }
+  
+  
